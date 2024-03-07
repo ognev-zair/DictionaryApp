@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dictionary Test App</string>
+    <string name="source_text_hint">Enter your text</string>
+</resources>
